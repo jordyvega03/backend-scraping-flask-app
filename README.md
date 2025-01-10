@@ -186,7 +186,7 @@ Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo `LICENSE` 
 ---
 
 ## **Contacto**
-Para dudas o sugerencias, por favor contacta a **[tu_email@example.com](mailto:jordyvega15@gmail.com)**.
+Para dudas o sugerencias, por favor contacta a **[jordyvega15@gmail.com](mailto:jordyvega15@gmail.com)**.
 
 --- 
 
